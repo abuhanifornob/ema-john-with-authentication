@@ -9,8 +9,7 @@
 }
 
 .login-logo {
-    width: 83px;
-    height: 42px;
+    text-align: center;
     /* H4 */
     font-family: 'Lato';
     font-style: normal;
@@ -40,6 +39,8 @@
     height: 55px;
     border: 1px solid #95A0A7;
     border-radius: 5px;
+    font-size: 22px;
+    padding-left: 7px;
 }
 
 .form-control {

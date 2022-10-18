@@ -32,7 +32,7 @@ const Signup = () => {
 
     }
     return (
-        <div className='login-container'>
+        <div className='form-container'>
             <h1 className='login-logo'>Sign Up</h1>
             <form onSubmit={handleSubmit}>
                 <div className='form-control'>

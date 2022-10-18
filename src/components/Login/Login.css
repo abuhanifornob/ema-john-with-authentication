@@ -1,0 +1,74 @@
+.login-container {
+    width: 500px;
+    height: 600px;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 50px auto;
+    padding-left: 60px;
+}
+
+.login-logo {
+    width: 83px;
+    height: 42px;
+    /* H4 */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height */
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    margin: 10px auto;
+}
+
+.form-control label {
+    display: block;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    color: #2A414F;
+    margin-bottom: 10px;
+}
+
+.form-control input {
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+}
+
+.form-control {
+    margin-top: 20px;
+}
+
+.btn-submit {
+    width: 415px;
+    height: 55px;
+    background: rgba(255, 153, 0, 0.3);
+    border-radius: 5px;
+    margin-top: 44px;
+}
+
+.btn-submit:hover {
+    background: rgba(255, 153, 0, 0.9);
+}
+
+.new_account a {
+    color: #FF9900;
+}
+
+.login-container p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+}
